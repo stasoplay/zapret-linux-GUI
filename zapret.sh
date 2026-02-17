@@ -1,4 +1,4 @@
-export PATH="$PATH:$HOME/App"
+export PATH="$PATH:$HOME/zapret-linux-GUI/"
 
 choice=$(yad --list --title="Настройка Zapret" --width=400 --height=300 \
     --column="№" --column="Действие" \
