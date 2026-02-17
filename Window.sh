@@ -1,6 +1,6 @@
 #Указыйте путь правильно
 export PATH="$PATH:$HOME/zapret-linux-GUI/"
-export IMG_PATH="$HOME/App"
+export IMG_PATH="$HOME/zapret-linux-GUI/"
 
 yad --title="Мой пульт управления" \
     --text-align=center \
